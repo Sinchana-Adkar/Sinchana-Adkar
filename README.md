@@ -18,7 +18,7 @@
 
 ## 🚀 About me
 
-I'm an MCA student (CGPA 9.37) with a strong academic foundation in software
+I'm graduated an MCA with a strong academic foundation in software
 development, cloud computing, networking, and machine learning. I enjoy
 building full-stack applications, deploying infrastructure on AWS, and
 designing networks — and I'm currently seeking to contribute as a **Backend
